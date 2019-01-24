@@ -1,0 +1,4 @@
+build:
+  docker:
+    web: my_flask_app/Dockerfile
+
